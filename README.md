@@ -1,4 +1,4 @@
-# Jogo da Idos
+# Jogo da Velha
 
 - Versão python 3.12
 - Bibliotecas: 
